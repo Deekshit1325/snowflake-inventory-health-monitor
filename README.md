@@ -28,4 +28,4 @@ A Snowflake-powered system that:
 Reduces waste, prevents shortages of essential supplies, and improves operational efficiency.
 
 ## Demo
-(Streamlit app link here)
+Streamlit app link : https://app.snowflake.com/yzlgabr/ff01808/#/streamlit-apps/INVENTORY_DB.PUBLIC.UVTH6UXYJA_1GRVB
